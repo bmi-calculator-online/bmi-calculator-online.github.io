@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://bmi-calculator-online.github.io/sitemap.xml
